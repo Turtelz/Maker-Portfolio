@@ -1,0 +1,2 @@
+Each Folder is its own project
+some projects are just a link to another website because it is hard to export it and put it into github
